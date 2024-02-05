@@ -43,6 +43,7 @@ I'm currently studying Software Analysis and Development, highly interested in i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodys2003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="400"/>
 </div>
 
----
+##
 <!-- Profile views obtained on https://github.com/VishwaGauravIn/visit-count-pro -->
-![](https://visitcount.itsvg.in/api?id=rodys2003&icon=0&color=9)
+
+![](https://visitcount.itsvg.in/api?id=rodys2003&color=9)
